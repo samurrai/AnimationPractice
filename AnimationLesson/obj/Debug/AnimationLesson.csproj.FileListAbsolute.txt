@@ -1,0 +1,15 @@
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\bin\Debug\AnimationLesson.exe.config
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\bin\Debug\AnimationLesson.exe
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\bin\Debug\AnimationLesson.pdb
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\MainWindow.g.cs
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\App.g.cs
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson_MarkupCompile.cache
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson_MarkupCompile.lref
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\MainWindow.baml
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.g.resources
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.Properties.Resources.resources
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.csproj.GenerateResource.cache
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.exe
+C:\Users\ШадикьянР\source\repos\AnimationLesson\AnimationLesson\obj\Debug\AnimationLesson.pdb
